@@ -246,20 +246,20 @@ input[type="radio"].visually-hidden {
 
 .slider__btn--prev {
   left: 32px;
-  background-image: url(img/chevron-left.jpeg);
+  background-image: url(../img/chevron-left.jpeg);
 }
 
 .slider__btn--prev:hover {
-  background-image: url(img/chevron-left-active.jpeg);
+  background-image: url(../img/chevron-left-active.jpeg);
 }
 
 .slider__btn--next {
   right: 32px;
-  background-image: url(img/chevron-right.jpeg);
+  background-image: url(../img/chevron-right.jpeg);
 }
 
 .slider__btn--next:hover {
-  background-image: url(img/chevron-right-active.jpeg);
+  background-image: url(../img/chevron-right-active.jpeg);
 }
 
 .slider__btn:focus {
